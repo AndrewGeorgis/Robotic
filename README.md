@@ -24,3 +24,4 @@ The linear speed of the end effector at the x-axis:
 
 The linear speed of the end effector at the y-axis:
 
+![vy](https://user-images.githubusercontent.com/50524921/69415173-d0b52800-0d1c-11ea-9828-e5878a290598.PNG)
