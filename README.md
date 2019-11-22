@@ -39,6 +39,8 @@ The trajectory of the joints speeds:
 An animation of the trajectory of the robot:
 ![animation](https://user-images.githubusercontent.com/50524921/69416677-cf392f00-0d1f-11ea-988c-622f3fcdc33a.png)
 ![anim3](https://user-images.githubusercontent.com/50524921/69416728-e7a94980-0d1f-11ea-85da-680b57d65a36.png)
+![anim4](https://user-images.githubusercontent.com/50524921/69416762-fe4fa080-0d1f-11ea-97e0-12121c241b78.png)
+
 
 
 The script that compute the trajectory of robotic arm is written in Matlab.
