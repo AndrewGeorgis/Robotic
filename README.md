@@ -32,3 +32,6 @@ The trajectory of the joints angles:
 ![joint3](https://user-images.githubusercontent.com/50524921/69415482-5e911300-0d1d-11ea-9949-90efcb0ed2f2.PNG)
 
 The trajectory of the joints speeds:
+
+![vjoint](https://user-images.githubusercontent.com/50524921/69415593-939d6580-0d1d-11ea-9f47-52a872e6f581.PNG)
+
