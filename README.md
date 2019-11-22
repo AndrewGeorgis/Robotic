@@ -28,3 +28,4 @@ The linear speed of the end effector at the y-axis:
 
 The trajectory of the joints angles:
 
+![joint](https://user-images.githubusercontent.com/50524921/69415280-00fcc680-0d1d-11ea-9283-8f607caccb1a.PNG)
