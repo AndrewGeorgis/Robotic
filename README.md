@@ -18,3 +18,9 @@ At the y-axis trajectory
 
 ![yθεση](https://user-images.githubusercontent.com/50524921/69414850-32c15d80-0d1c-11ea-9177-5efd48057df4.PNG)
 
+The linear speed of the end effector at the x-axis:
+
+![vx](https://user-images.githubusercontent.com/50524921/69415035-8df35000-0d1c-11ea-98f2-e51597745658.PNG)
+
+The linear speed of the end effector at the y-axis:
+
