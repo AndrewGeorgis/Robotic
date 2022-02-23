@@ -2,8 +2,7 @@
 # Getting Started
 We have a 3-DOF robotic arm which lengths are: L0 = L1 = L3 = 0, L2 = 2cm, L4 = 5cm, L5 = 5cm.
 
-![3dof-robotpng](https://user-images.githubusercontent.com/50524921/69413478-8da58580-0d19-11ea-81d8-65de60b10b9a.png)
-
+![robot_scr](https://user-images.githubusercontent.com/50524921/155301028-39ae9699-3ae2-4b58-9542-e86624ada4c0.png)
 # Step 1
 Compute forward and inverse kinematic of the robot arm.
 
